@@ -234,11 +234,7 @@ You can also open the notebook directly on [Kaggle](https://www.kaggle.com/code/
 └── README.md
 ```
 
-## 🔭 Future Work
-- Larger and randomly generated mazes
-- Temporal-Difference learning (Q-learning, SARSA)
-- Stochastic transitions (slippery floors)
-- Deep reinforcement learning (DQN)
+
 
 ## 👥 Team
 
